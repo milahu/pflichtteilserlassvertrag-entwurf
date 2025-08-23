@@ -1,3 +1,17 @@
+TLDR:
+Pflichtteilserlassverträge **nach** dem Erbfall sind fast immer ungültig,
+und sind nur in extremen Ausnahmefällen gültig,
+zum Beispiel in [OLG Hamm, Urteil vom 09.11.2021 - 10 U 19/21](doc/olg-hamm-2021-11-09-10-u-19-21.md).
+Es ist viel einfacher,
+wenn Erbe und Erblasser **vor** dem Erbfall
+einen notariellen Pflichtteilsverzichtsvertrag schließen,
+weil Pflichtteilsverzichtsverträge werden vor Gericht zu 100% akzeptiert.
+In seltenen Fällen geht auch ein
+[Pflichtteilsentzug](doc/2025-08-22.chatgpt.com.pflichtteilsentzug.md)
+im Testament vom Erblasser, auch gegen den Willen vom Erben,
+aber das muss der Erblasser gut [begründen](doc/2025-08-22.chatgpt.com.pflichtteilsentzug.md#1-was-bedeutet-unzumutbarkeit) im Testament,
+also auch das kann vor Gericht scheitern.
+
 **ENTWURF -- Das hier ist nur ein Entwurf.**  
 **Wer diesen Entwurf nutzt für einen echten Vertrag, der handelt auf eigene Gefahr ([MIT Lizenz](lizenz.txt)).**
 
